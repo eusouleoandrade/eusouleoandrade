@@ -9,6 +9,6 @@
   "profiles": {
       "linkedIn": "https://www.linkedin.com/in/eusouleoandrade/"
   },
-  "languages": [ "Portuguese", "English" ],
+  "languages": [ "Portuguese", "English" ]
 }
 ```
