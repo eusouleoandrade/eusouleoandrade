@@ -1,6 +1,6 @@
-**ProfessionalResponse.json**
+### ProfessionalResponse.json
 
-Code: 200 - Success | Media type: application/json
+**Code:** 200 - Success | **Media type:** application/json
 
 ```json
 {
