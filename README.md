@@ -9,7 +9,7 @@
   "titles": [ "Staff Software Engineer", "IT Coordinator" ],
   "email": "eusouleoandrade@gmail.com",
   "profiles": {
-      "linkedIn": "https://www.linkedin.com/in/eusouleoandrade"
+      "linkedin": "https://www.linkedin.com/in/eusouleoandrade"
   },
   "languages": [ "Portuguese", "English" ]
 }
